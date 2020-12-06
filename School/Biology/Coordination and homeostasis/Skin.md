@@ -1,0 +1,5 @@
+![[Coordination and homeostasis - PPT.pdf]]
+![[Pasted image 20201206131155.png]]
+![[Pasted image 20201206131216.png]]
+![[Pasted image 20201206131225.png]]
+![[Pasted image 20201206131246.png]]

@@ -1,0 +1,9 @@
+{
+  "id": "nldates-obsidian",
+  "name": "Natural Language Dates",
+  "description": "Create date-links based on natural language",
+  "version": "0.3.1",
+  "author": "Argentina Ortega Sainz",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
