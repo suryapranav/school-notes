@@ -1,1 +1,0 @@
-[[Mathematics/6th December]]

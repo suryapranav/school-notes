@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Incomplete work.md",
+            "file": "CS/Logic gates test.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 146
+    "width": 192
   },
   "right": {
     "id": "681a0913db94031d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Incomplete work.md",
+                "file": "CS/Logic gates test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resources/Incomplete work.md",
+    "CS/Logic gates test.md",
+    "CS/Logic gates 1.md",
+    "CS/Test 4th December.md",
+    "CS/November 27.md",
     "CS/6th December.md",
-    "Incomplete work.md",
-    "CS/6th December (Computer Ethics).md",
-    "Resources/CS.md",
-    "CS/6th December [Computer Ethics].md",
-    "Untitled.md",
-    "Mathematics/6th December.md",
-    "Biology/Coordination and homeostasis/Skin.md",
-    "Biology/Coordination and homeostasis/Eye.md"
+    "English/4th December.md",
+    "English/5th December.md",
+    "English/3rd December.md",
+    "French/Maison.md",
+    "French/Before 2nd December.md"
   ]
 }
