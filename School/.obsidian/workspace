@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "060ab326861ae120",
+        "id": "cbbe279ed29fdede",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Resources/Incomplete work.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,28 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Incomplete work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "8420840551b32681",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0841691e1ca41f68",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -107,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Resources/Incomplete work.md",
+    "CS/6th December.md",
+    "Incomplete work.md",
     "CS/6th December (Computer Ethics).md",
     "Resources/CS.md",
     "CS/6th December [Computer Ethics].md",
     "Untitled.md",
     "Mathematics/6th December.md",
-    "Incomplete work.md",
     "Biology/Coordination and homeostasis/Skin.md",
-    "Biology/Coordination and homeostasis/Eye.md",
-    "Incompletes!.md",
-    "Resources/Biology.md"
+    "Biology/Coordination and homeostasis/Eye.md"
   ]
 }
