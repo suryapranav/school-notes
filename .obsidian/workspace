@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "1a9c345851feab12",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ee72d664e42ab01",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Repository management stuff/Aikya's contributions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a0da437b0c6058",
+    "type": "split",
+    "children": [
+      {
+        "id": "e14723d9c8f2c736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74abfa2fce30f576",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59f631e3e9e2f116",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84c1f03cecbe8550",
+    "type": "split",
+    "children": [
+      {
+        "id": "587b74702cb68b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3979417a885edb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repository management stuff/Aikya's contributions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Repository management stuff/Aikya's contributions.md",
+    "CS/Ethics, end of chapter.md",
+    "Untitled.md",
+    "Logic gates test.md",
+    "CS/Logic gates.md",
+    "README.md",
+    "Repository management stuff/Biology.md",
+    "Biology/Animal nutrition.png",
+    "English/Speech.md"
+  ]
+}
