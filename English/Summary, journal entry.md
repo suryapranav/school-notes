@@ -1,5 +1,6 @@
 ![[Questions 4th Decmeber.pdf]]
-Question 2 [Journal Entry]:
+
+### Question 2 [Journal Entry]:
 
 Last night, I had a very strange experience. I had found myself lost in the far north, and had nowhere to go but forward, thanks to the snow and, with no other choice, I decided to keep moving forward- while the snowfall thickened. 
 The remnants of the sunlight had faded into complete darkness, and my attempts at finding any trace of human activity had failed- at this point, I was becoming increasingly paranoid.

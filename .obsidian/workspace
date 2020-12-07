@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#incomplete",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "English/Narrative writing.md",
-    "English/Speech.md",
-    "English/Summary, journal entry.md",
-    "English/Summary, informal letter, language effect.md",
-    "French/Saisons.md",
+    "README.md",
+    "Revision timetable.pdf",
+    "timetable.png",
     "French/Maison.md",
-    "Repository management stuff/Pasted image 20201206131234.png",
-    "Repository management stuff/Questions 3rd December.pdf",
-    "Mathematics/Functions.md",
-    "Revision timetable.pdf"
+    "French/Saisons.md",
+    "French/French Before 2nd December.md",
+    "French/French 7th December.md",
+    "French/French 2nd December.md",
+    "English/Summary, journal entry.md",
+    "English/Summary, informal letter, language effect.md"
   ]
 }
