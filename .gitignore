@@ -1,2 +1,5 @@
 .obsidian
 .trash
+.obsidian/graph.json
+.obsidian/workspace
+.obsidian/config
