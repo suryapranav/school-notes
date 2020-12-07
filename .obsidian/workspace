@@ -50,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 249
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -82,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "EVM/Rocks and minerals and their exploitation.md",
     "Untitled.md",
-    "Biology/Animal nutrition.png",
-    "Rocks and minerals and their exploitation.md",
-    "Repository management stuff/Pasted image 20201206131155.png",
-    "Repository management stuff/Narrative writing.pdf",
-    "README.md",
-    "Revision timetable.pdf",
-    "timetable.png",
-    "Biology/Coordination and homeostasis - PPT.pdf"
+    "EVM/Rocks and minerals and their exploitation.md",
+    "Biology/Animal nutrition.md",
+    "Biology/Coordination and homeostasis - PPT.pdf",
+    "CS/Ethics, end of chapter.md",
+    "CS/Logic gates.md",
+    "English/Speech.md",
+    "English/Summary, informal letter, language effect.md",
+    "English/Summary, journal entry.md",
+    "English/Narrative writing.md"
   ]
 }
