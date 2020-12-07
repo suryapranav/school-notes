@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository management stuff/Aikya's contributions.md",
+            "file": "Mathematics/Functions.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository management stuff/Aikya's contributions.md",
+                "file": "Mathematics/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Mathematics/Functions.md",
+    "Repository management stuff/Oorjitha's contributions.md",
+    "Repository management stuff/Test paper 4th December.pdf",
+    "Repository management stuff/Surya's contributions.md",
+    "Untitled.md",
     "Repository management stuff/Aikya's contributions.md",
     "CS/Ethics, end of chapter.md",
-    "Untitled.md",
     "Logic gates test.md",
     "CS/Logic gates.md",
-    "README.md",
-    "Repository management stuff/Biology.md",
-    "Biology/Animal nutrition.png",
-    "English/Speech.md"
+    "README.md"
   ]
 }
