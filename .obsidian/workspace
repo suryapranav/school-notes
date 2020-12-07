@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "French/French 2nd December.md",
-            "mode": "source"
+            "file": "Mathematics/Sets.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 300
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French/French 2nd December.md",
+                "file": "Mathematics/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "French/French 2nd December.md",
-    "Biology/Coordination and homeostasis - PPT.pdf",
-    "French/Maison.md",
-    "French/French 7th December.md",
+    "Mathematics/Sets.md",
     "Mathematics/Functions.md",
-    "Repository management stuff/Test paper 4th December.pdf",
-    "Repository management stuff/slide-4-1024.jpg",
-    "Repository management stuff/Screenshot from 2020-12-04 11-04-46.png",
-    "Repository management stuff/Screenshot from 2020-11-28 17-07-50.png",
-    "Repository management stuff/Questions 4th Decmeber.pdf"
+    "Untitled.md",
+    "Biology/Eye.md",
+    "Biology/Animal nutrition.png",
+    "Biology/Skin.md",
+    "Repository management stuff/Pasted image 20201206131155.png",
+    "README.md",
+    "Revision timetable.pdf",
+    "timetable.png"
   ]
 }
