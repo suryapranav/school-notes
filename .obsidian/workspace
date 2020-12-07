@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Functions.md",
+            "file": "French/French 7th December.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Functions.md",
+                "file": "French/French 7th December.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "French/French 7th December.md",
+    "Repository management stuff/French.md",
+    "Repository management stuff/Surya's contributions.md",
+    "Untitled.md",
     "Mathematics/Functions.md",
     "Repository management stuff/Oorjitha's contributions.md",
     "Repository management stuff/Test paper 4th December.pdf",
-    "Repository management stuff/Surya's contributions.md",
-    "Untitled.md",
     "Repository management stuff/Aikya's contributions.md",
     "CS/Ethics, end of chapter.md",
-    "Logic gates test.md",
-    "CS/Logic gates.md",
-    "README.md"
+    "Logic gates test.md"
   ]
 }
