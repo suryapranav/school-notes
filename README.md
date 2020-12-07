@@ -6,6 +6,8 @@ The revision timetable and class timetable are also available. However, the clas
 
 More stuff is always being added, and it is appreciated if you can commit more notes to the repo!
 
+Clone the repository and open the school-notes folder as a vault using obsidian to view everything- like the embedded images, PDFs, etc. (Otherwise, look into the "Repository management stuff" folder for the raw files.)
+
 Happy preparing!
 
 Surya.
