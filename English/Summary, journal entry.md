@@ -9,3 +9,5 @@ I was overjoyed to finally find someone, and that I wasn't completely lost, but 
 I was extremely annoyed that my only hope of surviving this night wasn't very co-operative, but I didn't stop trying. After repeated pleading, the man agreed to let me stay for one night at his house. After entering the house, a wave of relief swept over me, it was as though I experienced warmth for the first time in a century, I finally felt like myself for the first time in the day.
 
 The man offered me some food, while it was no remarkable dish, I was still more than grateful for the first meal since breakfast. The man seemed less annoyed than before, showed me where I could sleep- a cozy, warm room with a small bed. I thanked the man once again, and went to sleep. Today was a long day, and I can't wait to return home!
+
+Tags: #english #surya 

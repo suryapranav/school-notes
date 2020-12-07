@@ -11,3 +11,5 @@
  - Dans la salles des bains, il y a des toilettes, une douche et un évier. - Il y a aussi une chambre puja dans lequel nous prions dieu et ça sent très bon.
 
 - Sur les balcons, il y a des plantes, une balançoire et une machine à laver.
+
+Tags: #french #oorjitha

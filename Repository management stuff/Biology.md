@@ -1,3 +1,0 @@
-[[Eye]]
-[[Skin]]
-[[Animal nutrition.png]]

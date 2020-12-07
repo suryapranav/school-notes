@@ -17,3 +17,5 @@ Dans notre pays, il fait de plus en plus chaud et il y a peu d'eau en été, et 
 Notre planète est en grand danger maintenant, si nous ne faisons rien, nous ne pourrons pas vivre et nous devrons beaucoup souffrir. il deviendra très chaud et la pluie sera très faible. 
 
 -------------------------------
+
+Tags: #french #surya

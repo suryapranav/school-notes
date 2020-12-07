@@ -15,3 +15,5 @@ Humanity's protections of animals means not that humanity is interfering after e
 And yes, it may not make sense that in history there have existed that some ready to sacrifice human lives for an animal- but maybe the real problem is the humans being there in the first place.
 
 Therefore, I think it makes perfect sense that humans take up conservation efforts, that humans speak for our mute friends, that humans understand the bounds of their property. For when we have trespassed and caused damage in someone else's house, the least we can do is help them fix it.
+
+Tags: #english #surya

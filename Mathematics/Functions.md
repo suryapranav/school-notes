@@ -87,3 +87,5 @@ $y = 2x/(x-1)$, where $x = f^-1(y)$
 *I can't figure out how to do this one*
 
 ## 7
+
+Tags: #math #surya #incomplete 

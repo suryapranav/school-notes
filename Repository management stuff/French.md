@@ -1,5 +1,0 @@
-[[French 2nd December]]
-[[French Before 2nd December]]
-[[French 7th December]]
-[[Maison]]
-[[Saisons]]

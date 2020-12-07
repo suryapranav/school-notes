@@ -20,3 +20,5 @@ ils sont gentils
 mais surtout, ils vous respectent et comprennent leurs limites.
 
 4. Récemment, j'ai rencontré mes amis pour l'anniversaire de Karthik - nous avons mangé de la glace, nous avons beaucoup joué. C'était unique car nous nous sommes rencontrés pour la première fois en huit mois, et nous nous sommes donc beaucoup amusés.
+
+Tags: #french #surya #incomplete
