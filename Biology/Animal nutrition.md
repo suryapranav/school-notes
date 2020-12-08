@@ -1,3 +1,4 @@
-![[Animal nutrition.png]]
+![[Animal nutrition (Aikya).png]]
+![[Animal nutrition (Karthik).png]]
 
-#biology #aikya #handwritten
+#biology #aikya #karthik #handwritten

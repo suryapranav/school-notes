@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#surya",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 300
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -82,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Biology/Skin.md",
-    "Biology/Eye.md",
-    "Biology/Coordination and homeostasis - PPT.pdf",
-    "Biology/Animal nutrition.md",
     "CS/Ethics, end of chapter.md",
-    "CS/Logic gates.md",
-    "English/Article writing.md",
-    "English/Speech.md",
-    "English/Narrative writing.md",
-    "EVM/Energy and the environment.md"
+    "Untitled.md",
+    "Plant nutrition.md",
+    "Plant nutrition.png",
+    "Biology/Co-ordination and homeostasis.md",
+    "Biology/Movement in and out of cells.md",
+    "README.md",
+    "Revision timetable.pdf",
+    "timetable.png",
+    "Biology/Cells.md"
   ]
 }
