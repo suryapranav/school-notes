@@ -1,8 +1,5 @@
-![[Energy and the environment 1.jpeg]]
-![[Energy and the environment 2.jpeg]]
-![[Energy and the environment 3.jpeg]]
-![[Energy and the environment 4.jpeg]]
-![[Energy and the environment 5.jpeg]]
-![[Energy and the environment 6.jpeg]]
+![[Energy and the environment (Srujana).pdf]]
+![[Energy and the environment (Surya).png]]
+![[Energy and the environment (Aikya).png]]
 
-Tags: #evm #srujana 
+Tags: #evm #aikya #srujana #surya 
