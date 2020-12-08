@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository management stuff/Untitled.md",
-            "mode": "source"
+            "file": "English/Article writing.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#incomplete",
+                "query": "tag:#surya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 354
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository management stuff/Untitled.md",
+                "file": "English/Article writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Repository management stuff/Untitled.md",
-    "French/French 8th December.md",
-    "French/French Before 2nd December.md",
-    "Energy and the environment.md",
+    "English/Article writing.md",
+    "Mathematics/Functions.md",
+    "English/Summary, informal letter, language effect.md",
+    "English/Speech.md",
+    "README.md",
+    "English/Narrative writing.md",
+    "English/Summary, journal entry.md",
     "Untitled.md",
-    "EVM/Rocks and minerals and their exploitation.md",
-    "Biology/Animal nutrition.md",
-    "Biology/Coordination and homeostasis - PPT.pdf",
-    "CS/Ethics, end of chapter.md",
-    "CS/Logic gates.md"
+    "timetable.png",
+    "French/French 8th December.md"
   ]
 }

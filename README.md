@@ -14,7 +14,7 @@ Clone the repository and open the school-notes folder as a vault using [Obsidian
 ## To-Do (inputs/feedback appreciated):
 - Collect __all of the notes.__
 - Create a system to make embedded files and such accessible without Obsidian, and in the GitHub website itself.
-- Transcribe notes tagged #handwritten
+- Transcribe notes tagged "#handwritten"
 
 Happy preparing!
 
