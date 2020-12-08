@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "31134455510b0529",
+        "id": "d6a4207d8b518a36",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "English/Article writing.md",
-            "mode": "preview"
+            "file": "Revision timetable.pdf"
           }
         }
       }
@@ -53,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 258
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Article writing.md",
+                "file": "Revision timetable.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "English/Article writing.md",
-    "Mathematics/Functions.md",
-    "English/Summary, informal letter, language effect.md",
-    "English/Speech.md",
-    "README.md",
-    "English/Narrative writing.md",
-    "English/Summary, journal entry.md",
-    "Untitled.md",
+    "Revision timetable.pdf",
     "timetable.png",
-    "French/French 8th December.md"
+    "Physics/Thermal properties of matter.md",
+    "Physics/Thermal energy transfers.md",
+    "Physics/Light.md",
+    "Physics/Kinetic model of matter.md",
+    "Untitled.md",
+    "Kinetic model of matter.pdf",
+    "Repository management stuff/Light.pdf",
+    "Light.pdf"
   ]
 }

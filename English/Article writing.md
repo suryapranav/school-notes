@@ -1,4 +1,4 @@
-﻿![[Article writing question.pdf]]
+![[Article writing question.pdf]]
 
 ## How (and how not) to use humor in the workplace.
 
@@ -18,5 +18,3 @@ In order to make a joke that is more likely to go along well with your colleague
 Secondly, keep in mind that no matter how sane something can seem to you, your jokes always have the potential to go wrong- keep in mind that apologizing in a scenario like this is not an admission of your weakness, but a show of your strength.
 
 To summarize; jokes are risky- they have the potential to create a massively better work environment, but a misunderstanding of the lines of humor has the exact opposite effect.
-
-Tags: #english #surya 
