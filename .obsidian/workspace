@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "31134455510b0529",
+        "id": "d6a4207d8b518a36",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#srujana",
+                "query": "tag:#surya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 258
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Biology/Coordination and homeostasis - PPT.pdf",
     "Biology/Skin.md",
     "Biology/Eye.md",
+    "Biology/Coordination and homeostasis - PPT.pdf",
     "Biology/Animal nutrition.md",
-    "EVM/Energy and the environment.md",
-    "Repository management stuff/Energy and the environment 2.jpeg",
-    "Repository management stuff/Energy and the environment 1.jpeg",
-    "timetable.png",
-    "English/Article writing.md"
+    "CS/Ethics, end of chapter.md",
+    "CS/Logic gates.md",
+    "English/Article writing.md",
+    "English/Speech.md",
+    "English/Narrative writing.md",
+    "EVM/Energy and the environment.md"
   ]
 }
