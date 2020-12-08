@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee72d664e42ab01",
+        "id": "31134455510b0529",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Repository management stuff/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Repository management stuff/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Repository management stuff/Untitled.md",
+    "French/French 8th December.md",
+    "French/French Before 2nd December.md",
+    "Energy and the environment.md",
     "Untitled.md",
     "EVM/Rocks and minerals and their exploitation.md",
     "Biology/Animal nutrition.md",
     "Biology/Coordination and homeostasis - PPT.pdf",
     "CS/Ethics, end of chapter.md",
-    "CS/Logic gates.md",
-    "English/Speech.md",
-    "English/Summary, informal letter, language effect.md",
-    "English/Summary, journal entry.md",
-    "English/Narrative writing.md"
+    "CS/Logic gates.md"
   ]
 }
