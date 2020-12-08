@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "English/Article writing.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#surya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/Article writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "CS/Ethics, end of chapter.md",
+    "English/Article writing.md",
     "Untitled.md",
-    "Plant nutrition.md",
-    "Plant nutrition.png",
-    "Biology/Co-ordination and homeostasis.md",
-    "Biology/Movement in and out of cells.md",
-    "README.md",
+    "Biology/Biological molecules.md",
+    "Biological molecules (Oorjitha).png",
+    "Biology/Transport in animals.md",
+    "English/Narrative writing.md",
     "Revision timetable.pdf",
     "timetable.png",
-    "Biology/Cells.md"
+    "README.md",
+    "Biology/Animal nutrition.md"
   ]
 }
