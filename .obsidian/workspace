@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4105a247b04ec475",
+        "id": "5490c2c02a11c218",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Work and power.md",
-            "mode": "preview"
+            "file": "English/Speech 2.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#srujana",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403
+    "width": 268.5
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Work and power.md",
+                "file": "English/Speech 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "English/Speech 2.md",
     "Physics/Work and power.md",
-    "Physics/Thermal properties of matter.md",
-    "Physics/Motion.md",
-    "PHYSICS PROJECT-2.mp4",
-    "Untitled.md",
     "Physics/Energy transformations and energy transfers.md",
-    "Physics/Energy resources.md",
-    "Files_Online2PDF/Work and Power.pdf",
-    "Files_Online2PDF/energy transformations and energy transfers.pdf",
-    "Files_Online2PDF/Energy resources.pdf"
+    "Revision timetable.pdf",
+    "README.md",
+    "timetable.png",
+    "French/French 9th December.md",
+    "French/French Before 2nd December.md",
+    "English/Speech.md",
+    "English/Narrative writing.md"
   ]
 }

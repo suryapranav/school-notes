@@ -12,4 +12,12 @@ It makes sense that many are skeptical about the qualifications of 14- or 15-yea
 
 And even if there are no terrible decisions made, the council naturally disadvantages students by taking time out of theiir schedules which could otherwise be used for practiec more in line with their academic aspirations- right?
 
-Therefore, it does seem like the best option is to rely on the opinions, abilities, and assumptions of our teachers, the same teachers that might or might not completely understand that students
+Therefore, it seems like the best option is to rely on the opinions, abilities, and assumptions of our teachers- the same teachers that might or might not completely understand the students' specefic issues, the same teachers whose educational assumptions could be outdated and possibly entirely out of the rpesent reality- doesn't it?
+
+I think it's easy to see the problem from that- there's really no one that can understand the problems of the current student body other than... the current student body.
+
+It is with this in mind, that I am proposing today, that our school should begin student council, elected by the student body- to take up actually important decions- not just merely approving or suggesting edits to existing changes- we need a student council capable of making real, effective changes, otherwise, there is no point to having a student council al all!
+
+Studies have shown that student particiation is extremely essential to promote a better perception of the school to students, particularly younger ones- as it pushes the idea that they aren't experiencing the effects of someone else's arbitrary decisions.
+
+Tags: #english #surya 

@@ -3,11 +3,11 @@
 
 ## Test yourself question 1
 
-|                        | plat choisi        | raison                           |     |
+|                        | plat choisi        | raison                           | 
 | ---------------------- | ------------------ | -------------------------------- | 
 | client- entree         | soupe à l'oignon   | elle aime beaucoup               |    
 | client- entree         | salade de tomates  | Tres sante                       |     
-| client- plat principal | Du poisson         | Elle n'mange pas souvent la tante |     
+| client- plat principal | Du poisson         | Elle n'mange pas souvent la thon |     
 | client- plat principal | Thon avec legumes  | n'mange pas la viande                                      |
 | client- dessert        | glace à la vanille |           La parfume prefere                       |  
 | client- dessert        | rien               |         il m'interessant pas                         |
