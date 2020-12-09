@@ -1,3 +1,4 @@
-[[Output devices.png]]
+![[Output devices (Aikya).png]]
+![[Output devices (Srujana).pdf]]
 
-Tags: #cs #aikya
+Tags: #cs #aikya #srujana
