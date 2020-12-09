@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EVM/Rocks and minerals and their exploitation.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416
+    "width": 292,
+    "collapsed": true
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,11 +67,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EVM/Rocks and minerals and their exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -86,15 +83,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "EVM/Rocks and minerals and their exploitation.md",
-    "Rocks and Minerals and their exploitation (Surya).png",
-    "Energy and the environment (Aikya).png",
-    "README.md",
-    "EVM/Energy and the environment.md",
+    "CS/Data representation.md",
+    "CS/Data transmission.md",
+    "CS/Input devices and sensors.md",
     "Untitled.md",
+    "CS/Computer architecture.md",
+    "CS/Output devices.md",
+    "CS/Types of software.md",
     "CS/Memory and storage devices.md",
-    "Memory and storage (Aikya).png",
-    "Output devices.png",
-    "CS/Computer architecture.md"
+    "CS/Ethics, end of chapter.md",
+    "Input devices and sensors.pdf"
   ]
 }
