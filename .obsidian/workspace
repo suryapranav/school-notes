@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a4207d8b518a36",
+        "id": "4105a247b04ec475",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Physics/Work and power.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#surya",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292,
-    "collapsed": true
+    "width": 403
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Work and power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,24 +77,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "eb279ba38169c0ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "CS/Data representation.md",
-    "CS/Data transmission.md",
-    "CS/Input devices and sensors.md",
+    "Physics/Work and power.md",
+    "Physics/Thermal properties of matter.md",
+    "Physics/Motion.md",
+    "PHYSICS PROJECT-2.mp4",
     "Untitled.md",
-    "CS/Computer architecture.md",
-    "CS/Output devices.md",
-    "CS/Types of software.md",
-    "CS/Memory and storage devices.md",
-    "CS/Ethics, end of chapter.md",
-    "Input devices and sensors.pdf"
+    "Physics/Energy transformations and energy transfers.md",
+    "Physics/Energy resources.md",
+    "Files_Online2PDF/Work and Power.pdf",
+    "Files_Online2PDF/energy transformations and energy transfers.pdf",
+    "Files_Online2PDF/Energy resources.pdf"
   ]
 }
