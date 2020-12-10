@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5490c2c02a11c218",
+        "id": "8ec0be57723c2708",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Speech 2.md",
-            "mode": "source"
+            "file": "CS/Databases.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#srujana",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Speech 2.md",
+                "file": "CS/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "English/Speech 2.md",
-    "Physics/Work and power.md",
-    "Physics/Energy transformations and energy transfers.md",
-    "Revision timetable.pdf",
+    "CS/Databases.md",
+    "Untitled.md",
+    "Repository management stuff/Audio 2.4.mp3",
+    "Repository management stuff/Animal nutrition (Karthik).png",
+    "Repository management stuff/Article writing question.pdf",
     "README.md",
-    "timetable.png",
-    "French/French 9th December.md",
-    "French/French Before 2nd December.md",
-    "English/Speech.md",
-    "English/Narrative writing.md"
+    "Repository management stuff/Animal nutrition (Aikya).png",
+    "Physics/Energy transformations and energy transfers.md",
+    "Physics/Thermal energy transfers.md",
+    "EVM/Energy and the environment.md"
   ]
 }
