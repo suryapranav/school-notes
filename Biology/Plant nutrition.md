@@ -1,3 +1,4 @@
-![[Plant nutrition.png]]
+![[Plant nutrition (Karthik).png]]
+![[Plant nutrition (Aikya).png]]
 
-Tags: #biology #karthik 
+Tags: #biology #karthik #aikya #handwritten 

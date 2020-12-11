@@ -33,8 +33,8 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 | -------- | -------- | ----------------------------------------- |
 | 1        | Surya    | 28                                        |
 | 2        | Srujana  | 16                                        |
-| 3        | Aikya    | 10                                        |
-| 4        | Oorjitha | 8                                         |
+| 3        | Aikya    | 11                                        |
+| 4        | Oorjitha | 9                                         |
 | 5        | Karthik  | 6                                         |
 | 5        | Ketan    | 6                                         |
 | 5        | Sai      | 6                                         |
@@ -46,15 +46,15 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 | Computer science         | 9                                     |
 | English                  | 9                                     |
 | Physics                  | 9                                     |
-| Biology                  | 7                                     |
+| Biology                  | 8                                     |
 | French                   | 7                                     |
 | Chemistry                | 6                                     |
 | Environmental Management | 6                                     |
 
 
 ### Incomplete and handwritten notes:
-- There are `4` topics in need of completion.
-- There are `5` topics that are handwritten (with varying degree of readability).
+- There are currently `4` topics in need of completion.
+- There are currently `6` topics that have handwritten content (with varying degree of readability).
 
 ## To-do (inputs/feedback appreciated):
 - Collect __all of the notes.__

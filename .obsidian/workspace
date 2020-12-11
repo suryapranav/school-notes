@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Biology/Movement in and out of cells.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#aikya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Biology/Movement in and out of cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "Physics/Work and power.md",
-    "Physics/Thermal properties of matter.md",
-    "Physics/Thermal energy transfers.md",
-    "Physics/Motion.md",
-    "Physics/Making measurements.md",
+    "Biology/Movement in and out of cells.md",
     "Physics/Light.md",
-    "Physics/Kinetic model of matter.md",
-    "Physics/Energy transformations and energy transfers.md",
-    "Physics/Energy resources.md"
+    "README.md",
+    "Biology/Plant nutrition.md",
+    "Biology/Biological molecules.md",
+    "Biology/Cells.md",
+    "Repository management stuff/2.5 Revision.pdf",
+    "CS/Computer architecture.md",
+    "Biology/Animal nutrition.md",
+    "Untitled.md"
   ]
 }
