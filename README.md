@@ -12,7 +12,7 @@ More stuff is always being added, and it is appreciated if you can send more not
 Clone the repository (```git clone https://github.com/suryapranav/school-notes```) and open the school-notes folder as a vault using [Obsidian](https://obsidian.md/) to view everything- like the embedded images, PDFs, etc. (Otherwise, look into the "Repository management stuff" folder for the raw files.)
 
 ### Beginner's guide (if you are not familiar with using git):
-#### Step !: Cloning the repository:
+#### Step 1: Cloning the repository:
 - Make a GitHub account.
 - Download and install [GitHub Deskotp](https://desktop.github.com/).
 > Use [this guide](https://dev.to/rahedmir/is-github-desktop-available-for-gnu-linux-4a69#:~:text=Currently%2C%20Github%20Desktop%20for%20GNU,Hat%2FCentOS%2FFedora%20distributions.) to install the app if you're on linux, like I am :)
