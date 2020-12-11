@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Chemistry/Pertochemicals and polymers.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/Pertochemicals and polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,18 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Chemistry/Salts.md",
+    "Chemistry/Pertochemicals and polymers.md",
+    "Chemistry/Industrial inorganic chemistry + metals + metallurgy.md",
+    "Chemistry/Mole concept.md",
+    "Chemistry/Organic chemistry.md",
     "Chemistry/Rates of reaction.md",
-    "Chemistry/Metals + metallurgy.md",
-    "English/Formal letter.md",
-    "Untitled.md",
-    "French/Maison.md",
-    "French/Saisons.md",
-    "English/Newspaper report.md",
-    "Physics/Energy resources.md",
-    "Physics/Kinetic model of matter.md"
+    "Chemistry/Salts.md",
+    "Notes and link.pdf",
+    "Polymerisation.pdf",
+    "Pasted image 20201211181635.png",
+    "Untitled.md"
   ]
 }
