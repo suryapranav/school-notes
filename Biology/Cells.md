@@ -6,4 +6,4 @@
 ![[Cells (Sai) (2).png]]
 ![[Cells (Sai) (3).png]]
 
-Tags: #biology #karthik #srujana #surya #sai 
+Tags: #biology #karthik #srujana #surya #sai #handwritten
