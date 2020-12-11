@@ -1,5 +1,5 @@
 ## The Notes
-These are surya's (and others') notes since a few days- all in markdown files, take if you want!
+These are surya's (and others') notes- all in markdown files, take if you want!
 
 The raw files and material is in the "Repository management stuff" folder, along with logs of everyones contributions and subject-wise segeregation.
 
