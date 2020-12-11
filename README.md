@@ -5,7 +5,7 @@ The raw files and material is in the "Repository management stuff" folder, along
 
 The revision timetable and class timetable are also available. However, the class timetable is missing extra classes from 0800 to 0900 in the morning and from 1430 to 1530 in the evening.
 
-More stuff is always being added, and it is appreciated if you can commit more notes to the repo!
+More stuff is always being added, and it is appreciated if you can send more notes!
 
 ## Intended use
 
