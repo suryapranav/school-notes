@@ -3,7 +3,7 @@ These are surya's (and others') notes since a few days- all in markdown files, t
 
 The raw files and material is in the "Repository management stuff" folder, along with logs of everyones contributions and subject-wise segeregation.
 
-The revision timetable and class timetable are also available. However, the class timetable is missing english classes from 0800 to 0900 on weekday except Tuesday.
+The revision timetable and class timetable are also available. However, the class timetable is missing extra classes from 0800 to 0900 in the morning and from 1430 to 1530 in the evening.
 
 More stuff is always being added, and it is appreciated if you can commit more notes to the repo!
 
