@@ -1,6 +1,7 @@
-![[Newspaper report.pdf]]
+![[Formal letter + Newspaper report.pdf]]
 
-## City parts in need of repair.
+## Question 3: Newspaper report.
+### City parts in need of repair.
 
  A recent temporary shutdown of the "Sammy's Place" hostel in the Eastern side of the city by the sanitation department took place yesterday.
 
