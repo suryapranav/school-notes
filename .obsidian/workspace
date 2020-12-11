@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry/Pertochemicals and polymers.md",
+            "file": "EVM/Water and its management.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Pertochemicals and polymers.md",
+                "file": "EVM/Water and its management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "EVM/Water management.md",
+    "EVM/Rocks and minerals and their exploitation.md",
+    "Untitled.md",
+    "Managing Natural Hazards 2.pdf",
     "Chemistry/Pertochemicals and polymers.md",
-    "Chemistry/Industrial inorganic chemistry + metals + metallurgy.md",
+    "EVM/Energy and the environment.md",
     "Chemistry/Mole concept.md",
     "Chemistry/Organic chemistry.md",
-    "Chemistry/Rates of reaction.md",
-    "Chemistry/Salts.md",
-    "Notes and link.pdf",
-    "Polymerisation.pdf",
-    "Pasted image 20201211181635.png",
-    "Untitled.md"
+    "Chemistry/Industrial inorganic chemistry + metals + metallurgy.md",
+    "Biology/Transport in animals.md"
   ]
 }

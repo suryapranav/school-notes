@@ -1,3 +1,4 @@
+![[Formation of Oil and Natural Gas 1.png]]
 ![[Polymerisation.pdf]]
 
 | Word                    | Definition                                                                                                                                                                                                                                                                                                                                                 |
@@ -40,4 +41,4 @@
 | vapourized              | Turned (generally through heating) into vapour. Vapour is a cloud of liquid particles. Steam is water vapour.                                                                                                                                                                                                                                              |
 | vapour                  | Vapour is a cloud of liquid particles. Steam is water vapour.                                                                                                                                                                                                                                                                                              |
 
-Tags: #chem #surya
+Tags: #chem #surya #ketan 
