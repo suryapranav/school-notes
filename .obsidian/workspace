@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS/Psuedocode guide 1.md",
+            "file": "English/Summary.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Psuedocode guide 1.md",
+                "file": "English/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "English/Summary.md",
+    "English/Speech.md",
+    "CS/Psuedocode guide.md",
     "CS/Psuedocode guide 1.md",
     "Untitled.md",
     "Repository management stuff/Psuedocode guide.pdf",
-    "English/Summary.md",
     "English/Summary, informal letter, language effect.md",
     "English/Summary, journal entry.md",
     "Math/Formulas.md",
-    "README.md",
-    "Physics/Formulas.md",
-    "Physics/Work and power.md"
+    "README.md"
   ]
 }

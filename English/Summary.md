@@ -26,4 +26,6 @@ Out of the handful of organisms every discovered from the Ice ages, the newly fo
 
 Furthermore, the herder who discovered the body neither dug up, nor sold the dead remains of the accidentally-discovered mammoth, choosing instead to contact authorities to begin the retrieval of the untouched body.
 
-Scientists are currently analyzing the body to find out the secrets surrounding the mammoth, and how she died. They also hope to use the data they find to understand more about what the conditions in the Pleistocene ages were like, and how much the climate has changed.
+Scientists are currently analyzing the body to find out the mystery surrounding the mammoth, and how she died. They also hope to use the data they find to understand more about what the conditions in the Pleistocene ages were like, and how much the climate has changed.
+
+Tags: #english #surya
