@@ -1,4 +1,4 @@
-Bonjour madame. Je m'appelle Oorjitha. Aujourd'hui, je vais parler de ma saison préférée. J'aime l'été. Généralement, la France a l'été de juin à septembre, alors que L'Inde, où je vis, a l'été de Mars à juin. 
+Bonjour madame. Je m'appelle ---. Aujourd'hui, je vais parler de ma saison préférée. J'aime l'été. Généralement, la France a l'été de juin à septembre, alors que L'Inde, où je vis, a l'été de Mars à juin. 
 
 J'aime l'été à cause de beaucoup de choses. Pour commencer, je peux manger mes fruits préférés comme les mangues, les pastèques, les melons musqués, les prunes, etc. Je peux aussi manger beaucoup de crème glacée et boire des boissons gazeuses pour rester au frais à la température chaude. 
 

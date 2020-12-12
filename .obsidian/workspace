@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Newspaper report.md",
+            "file": "French/Saisons.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#french",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Newspaper report.md",
+                "file": "French/Saisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "French/Saisons.md",
+    "French/Environnment.md",
+    "Biology/Reproduction in plants.md",
+    "French/French 2nd December.md",
     "English/Newspaper report.md",
     "README.md",
     "English/Article writing.md",
-    "French/French 2nd December.md",
     "English/Speech 2.md",
     "CS/Databases (Homework).md",
-    "English/Summary.md",
-    "French/Environnment.md",
-    "English/Speech.md",
-    "CS/Psuedocode guide.md"
+    "English/Summary.md"
   ]
 }
