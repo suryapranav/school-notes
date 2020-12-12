@@ -33,10 +33,10 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 ### Contributors:
 | Position | Name     | Number of topics they have contributed to |
 | -------- | -------- | ----------------------------------------- |
-| 1        | Surya    | 28                                        |
+| 1        | Surya    | 30                                        |
 | 2        | Srujana  | 16                                        |
+| 3        | Aikya    | 13                                        |
 | 3        | Oorjitha | 12                                        |
-| 3        | Aikya    | 11                                        |
 | 4        | Karthik  | 6                                         |
 | 4        | Ketan    | 6                                         |
 | 4        | Sai      | 6                                         |
@@ -46,12 +46,13 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 | Subject                  | Number of topics covered in this repo |
 | ------------------------ | ------------------------------------- |
 | French                   | 10                                    |
-| English                  | 9                                     |
-| Computer Science         | 9                                     |
-| Physics                  | 9                                     |
+| Computer Science         | 10                                    |
+| English                  | 10                                    |
+| Physics                  | 10                                    |
 | Biology                  | 8                                     |
 | Chemistry                | 6                                     |
 | Environmental Management | 6                                     |
+| Math                     | 1                                     |
 
 
 ### Incomplete and handwritten notes:
