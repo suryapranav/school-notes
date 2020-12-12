@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "French/Environnment.md",
+            "file": "French/Pourquoi aimes-tu le français.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French/Environnment.md",
+                "file": "French/Pourquoi aimes-tu le français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "French/Environnment.md",
-    "French/Ecole.md",
-    "French/Ideal vacation for franchophones.md",
-    "French/Vacances.md",
-    "French/Saisons.md",
-    "French/Maison.md",
+    "French/Pourquoi aimes-tu le français.md",
     "Untitled.md",
-    "Biology/Reproduction in plants.md",
-    "French/French 2nd December.md",
-    "English/Newspaper report.md"
+    "French/Untitled 1.md",
+    "Untitled 1.md",
+    "French/Maison.md",
+    "French/Vacances.md",
+    "README.md",
+    "French/Saisons.md",
+    "French/Environnment.md",
+    "French/Ecole.md"
   ]
 }
