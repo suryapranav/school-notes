@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "English/Newspaper report.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "English/Newspaper report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "English/Newspaper report.md",
     "README.md",
     "English/Article writing.md",
     "French/French 2nd December.md",
@@ -105,7 +106,6 @@
     "English/Summary.md",
     "French/Environnment.md",
     "English/Speech.md",
-    "CS/Psuedocode guide.md",
-    "CS/Psuedocode guide 1.md"
+    "CS/Psuedocode guide.md"
   ]
 }
