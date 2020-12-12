@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "French/Saisons.md",
-            "mode": "preview"
+            "file": "French/Ecole.md",
+            "mode": "source"
           }
         }
       }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French/Saisons.md",
+                "file": "French/Ecole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "French/Saisons.md",
     "French/Environnment.md",
     "Biology/Reproduction in plants.md",
@@ -107,7 +106,6 @@
     "README.md",
     "English/Article writing.md",
     "English/Speech 2.md",
-    "CS/Databases (Homework).md",
-    "English/Summary.md"
+    "CS/Databases (Homework).md"
   ]
 }
