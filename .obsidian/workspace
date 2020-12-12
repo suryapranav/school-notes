@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "French/Pourquoi aimes-tu le français.md",
-            "mode": "source"
+            "file": "French/Maison.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#french",
+                "query": "tag:#srujana",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French/Pourquoi aimes-tu le français.md",
+                "file": "French/Maison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "French/Pourquoi aimes-tu le français.md",
-    "Untitled.md",
-    "French/Untitled 1.md",
-    "Untitled 1.md",
     "French/Maison.md",
+    "French/Ecole.md",
+    "French/Environnment.md",
+    "French/Favourite cuisine.md",
+    "French/Ideal vacation for franchophones.md",
+    "French/Pourquoi aimes-tu le français.md",
+    "French/Saisons.md",
     "French/Vacances.md",
     "README.md",
-    "French/Saisons.md",
-    "French/Environnment.md",
-    "French/Ecole.md"
+    "Untitled 1.md"
   ]
 }
