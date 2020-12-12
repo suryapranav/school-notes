@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec0be57723c2708",
+        "id": "b49ba18d2bc68f26",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biology/Movement in and out of cells.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aikya",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Movement in and out of cells.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Biology/Movement in and out of cells.md",
-    "Physics/Light.md",
     "README.md",
-    "Biology/Plant nutrition.md",
-    "Biology/Biological molecules.md",
-    "Biology/Cells.md",
-    "Repository management stuff/2.5 Revision.pdf",
-    "CS/Computer architecture.md",
-    "Biology/Animal nutrition.md",
-    "Untitled.md"
+    "Untitled.md",
+    "EVM/Water and its management.md",
+    "Water and its management (Ketan).png",
+    "Reproduction in Plants mindmap.png",
+    "timetable.png",
+    "Ideal vacation for francophones.md",
+    "French/Vacances.md",
+    "Biology/Movement in and out of cells.md",
+    "Physics/Light.md"
   ]
 }

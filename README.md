@@ -35,11 +35,11 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 | -------- | -------- | ----------------------------------------- |
 | 1        | Surya    | 28                                        |
 | 2        | Srujana  | 16                                        |
+| 3        | Oorjitha | 12                                        |
 | 3        | Aikya    | 11                                        |
-| 4        | Oorjitha | 9                                         |
-| 5        | Karthik  | 6                                         |
-| 5        | Ketan    | 6                                         |
-| 5        | Sai      | 6                                         |
+| 4        | Karthik  | 6                                         |
+| 4        | Ketan    | 6                                         |
+| 4        | Sai      | 6                                         |
 
 
 ### Subjects:
@@ -47,9 +47,9 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 | ------------------------ | ------------------------------------- |
 | Computer science         | 9                                     |
 | English                  | 9                                     |
+| French                   | 10                                    |
 | Physics                  | 9                                     |
 | Biology                  | 8                                     |
-| French                   | 7                                     |
 | Chemistry                | 6                                     |
 | Environmental Management | 6                                     |
 
