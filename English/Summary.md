@@ -1,11 +1,8 @@
 ![[Summary Writing question.pdf]]
 
 ## Question 1f: Summary writing:
-
 ### NOTES: 
-
 #### Part 1: what makes lyuba so remarkable:
-
 - Only a handful were ever discovered.
 - discovered accidentally.
 - "most perfectly preserved".
@@ -13,7 +10,6 @@
 - scientists were able to carefully preserve the remains
 
 #### Part 2: what scientists hope to understand:
-
 - how she died.
 - what pleistocene life was like
 - info about climate change

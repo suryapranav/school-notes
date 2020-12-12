@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "English/Summary.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -98,14 +98,14 @@
   },
   "lastOpenFiles": [
     "English/Summary.md",
+    "French/Environnment.md",
+    "French/French 2nd December.md",
     "English/Speech.md",
     "CS/Psuedocode guide.md",
     "CS/Psuedocode guide 1.md",
     "Untitled.md",
     "Repository management stuff/Psuedocode guide.pdf",
     "English/Summary, informal letter, language effect.md",
-    "English/Summary, journal entry.md",
-    "Math/Formulas.md",
-    "README.md"
+    "English/Summary, journal entry.md"
   ]
 }
