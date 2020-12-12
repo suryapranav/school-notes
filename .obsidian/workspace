@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "CS/Psuedocode guide 1.md",
             "mode": "source"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "84c1f03cecbe8550",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CS/Psuedocode guide 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
+    "CS/Psuedocode guide 1.md",
     "Untitled.md",
-    "EVM/Water and its management.md",
-    "Water and its management (Ketan).png",
-    "Reproduction in Plants mindmap.png",
-    "timetable.png",
-    "Ideal vacation for francophones.md",
-    "French/Vacances.md",
-    "Biology/Movement in and out of cells.md",
-    "Physics/Light.md"
+    "Repository management stuff/Psuedocode guide.pdf",
+    "English/Summary.md",
+    "English/Summary, informal letter, language effect.md",
+    "English/Summary, journal entry.md",
+    "Math/Formulas.md",
+    "README.md",
+    "Physics/Formulas.md",
+    "Physics/Work and power.md"
   ]
 }

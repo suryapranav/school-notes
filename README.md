@@ -27,7 +27,7 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 - In the popup that opens, navigate to the school-notes (mentioned in the pervious steps) **do not go *inside* the folder.**
 - Click on the school-notes folder and click on "Open".
 - That's it! you now have access to the hard work of the best of 10A along with notes on pretty much every important topic!
-- If any new notes are added to the online repository, you can open GitHub desktop and press ```Ctrl + Shift + P``` to update the local repository.
+- If any new notes are added to the online repository, you can open GitHub desktop and press `Ctrl + Shift + P` to update the local repository.
 
 ## Some statistics:
 ### Contributors:
@@ -45,9 +45,9 @@ Clone the repository (```git clone https://github.com/suryapranav/school-notes``
 ### Subjects:
 | Subject                  | Number of topics covered in this repo |
 | ------------------------ | ------------------------------------- |
-| Computer science         | 9                                     |
-| English                  | 9                                     |
 | French                   | 10                                    |
+| English                  | 9                                     |
+| Computer Science         | 9                                     |
 | Physics                  | 9                                     |
 | Biology                  | 8                                     |
 | Chemistry                | 6                                     |
