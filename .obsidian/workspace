@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b49ba18d2bc68f26",
+        "id": "8add8bf0617f4fd1",
         "type": "leaf",
         "active": true,
         "state": {
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "84c1f03cecbe8550",
