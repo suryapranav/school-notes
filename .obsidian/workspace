@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "French/Maison.md",
-            "mode": "preview"
+            "file": "French/Favourite cuisine.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French/Maison.md",
+                "file": "French/Favourite cuisine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "French/Maison.md",
+    "French/Favourite cuisine.md",
     "French/Ecole.md",
     "French/Environnment.md",
-    "French/Favourite cuisine.md",
+    "French/Ideal job.md",
     "French/Ideal vacation for franchophones.md",
+    "French/Indian and french education system.md",
+    "French/Loisirs.md",
+    "French/Maison.md",
     "French/Pourquoi aimes-tu le français.md",
-    "French/Saisons.md",
-    "French/Vacances.md",
-    "README.md",
-    "Untitled 1.md"
+    "French/Saisons.md"
   ]
 }
