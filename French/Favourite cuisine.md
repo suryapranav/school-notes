@@ -1,5 +1,0 @@
-La nourriture est très importante pour nous, et nous ne survivrons pas sans nourriture. Mes cuisines préférées sont les cuisines indienne et mexicaine, parce que j'aime la nourriture épicée. Certains de mes plats préférés sont les tacos, le biryani et d'autres, parce qu'ils sont très savoureux. Certains plats sont difficiles à préparer, mais ils en valent la peine. J'aime tous les plats de ces cuisines.
-
-La nourriture est très importante pour nous, et nous ne survivrons pas sans nourriture. Mes cuisines préférées sont les cuisines indienne et mexicaine, parce que j'aime la nourriture épicée. Certains de mes plats préférés sont les tacos, le biryani et d'autres, parce qu'ils sont très savoureux. Certains plats sont difficiles à préparer, mais ils en valent la peine. J'aime tous les plats de ces cuisines.
-
-Tags: #french #surya
